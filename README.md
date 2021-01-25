@@ -1,14 +1,10 @@
-# Accessibility tool audit
+# Fork of GOV UK's Accessibility Tool Audit
 
-Automated accessibility checkers can be used to help identify accessibility issues in digital services. They're good for finding simple and obvious problems, but aren't able to detect many accessibility issues.
-
-This repo contains a collection of accessibility failures to be used for testing automated accessibility tools and test results from those tools.
-
-[Read our blog post](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/) about how we did the automated tool testing.
+This is a fork of GOV UK's repo, which contains numerous accessibility failures, and can be used to test proposed  <abbr title="W3C Accessibility Guidelines">WCAG</abbr> 3 conformance.
 
 ## About the test cases
 
-The test cases are a collection of the wide variety of potential accessibility issues that can exist. There's probably loads more we haven't thought of.
+The test cases are a collection of the wide variety of potential accessibility issues that can exist. This isn't a definitive list of every possible conformance issue, and more will need to be added when WCAG 2.2 becomes a recommendation and WCAG 3 work continues.
 
 ## Contributing / updating results
 
